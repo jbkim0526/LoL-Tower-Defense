@@ -1,14 +1,18 @@
 # Nexus Defense
+---
+3D Tower Defense Game Motivated By League of Legends.
 
-본 게임은 'Unity'를 사용해서 만들었습니다. 
-저희는 "리그 오브 레전드"를 모티브로 한 3D 타워 디펜스 게임을 만들었습니다.
-- 본 게임은 9개의 기물이 존재하며 각 기물은 리그오브레전드 챔피언의 형상을 띄고 있습니다.
-- 각각의 기물은 다가오는 적에게 고유의 스킬을 사용하며 아군 넥서스를 향해 다가오는 적을 공격합니다.
-- 총 5개의 라운드로 구성되어 있으며 이 시간동안 적들로 부터 넥서스를 지켜내면 승리하게 됩니다.
-- 챔피언들을 선택하면 몰입캠프 1분반 사람들의 녹음된 목소리로 자신감을 뽑냅니다.
-- 넥서스를 향해 오는 적들은 모두 리그오브레전드 내의 게임 캐릭터이며 실제 리그오브레전드에서의 스킬을 사용하여 게임에 다양한 재미를 가져다 줍니다.
-- 본 게임은 배속기능을 갖추어 사용자가 불필요한 대기시간을 절약할 수 있도록 도와줍니다.
-- 또한 카메라를 자유롭게 이동할 수 있고 확대 축소 기능을 갖추어 3D로 만들어진 게임환경을 즐길 수 있습니다.”
-  
-<br>
-<b><i>Language: C#, Tool: Unity</i></b>
+### Getting Started
+---
+This game is created by Unity 2019.1.10f1 version.
+You must download the corresponding version to open it.
+You can just play it by executing "Packages/Tower Defense.exe"
+
+### Description
+---
+- There are 9 League of Legends champion pieces
+- Each piece uses its unique skill against approaching enemies.
+- The enemies are also the game characters from League of Legends 
+- This game features a fast-forward operation. Save Your Time!
+- Also, it allows free movement of the camera. Enjoy the game environment created in 3D.
+- The game is total of 5 rounds, and if you defend the Nexus from enemies during this time, you win.
